@@ -1,0 +1,142 @@
+body{
+    background-color: lightgray;
+}
+
+*{
+    margin: 0 auto;
+}
+
+body{
+    background-color: rgb(213, 232, 233);
+}
+
+.divTudo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.divLinha{
+    clear: both;
+
+}
+#divCabecalho{
+    background-color: #162e58;
+}
+
+.h2TituloSessao{
+    font-size: 20px;
+    padding: 10px;
+    
+}
+
+table, td, th{
+    border-bottom: solid 1px #e2e2e2;
+    border-collapse: collapse;
+    padding: 7px;
+}
+
+    th{
+        color: darkgrey;
+        font-weight: normal;
+        font-size: 14px;
+        text-align: center;
+    }
+
+    td{
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .imgClube{
+        width: 20px;
+        height: 20px;
+    }
+
+/* estilos do cabeçalho geral */
+#divCabecalho{
+    background-color: rgb(21, 21, 124);
+    min-height: 100px;
+    padding: 20px 50px 10px 50px;
+    color: #ffffff;
+}
+
+h1TituloCabecalho{
+    color: #ffffff;
+    float: left;
+    min-height: 50%;
+    font-size: 16px;
+    text-align: left;
+}
+
+/* estitilos classificação */
+#divClassificacao{
+    width: 50%;
+}
+
+#tableClassificacao{
+    width: 100%;
+    background-color: #ffffff;
+}
+
+h3TituloGrupo{
+    font-size: 14px;
+    padding: 5px;
+}
+.divEmp{
+background-image: url("../img/e.svg");
+background-repeat: no-repeat;
+height: 16px;width: 16px;
+float: left;
+margin-right: 5px;
+}
+.divVit{
+    background-image: url("../img/v.svg");
+    background-repeat: no-repeat;
+    height: 16px;width: 16px;
+    float: left;
+    margin-right: 5px;
+}
+.divDer{
+    background-image: url("../img/d.svg");
+    background-repeat: no-repeat;
+    height: 16px;width: 16px;
+    float: left;
+    margin-right: 5px;
+}
+.tdPosicao{
+    width: 1%;
+
+}
+.tdImgClube{
+    width: 5%;
+}
+.tdNomeClube{
+}
+.thUltimas{
+    width: 20%;
+}
+/* estilos goleadores */
+#divGoleadores{
+    width: 50%;
+}
+
+#tableGoleadores{
+    width: 100%;
+    background-color:#ffffff;
+}
+
+/* estilos jogos */
+#divJogos{
+    width: 50%;
+}
+
+#tableJogos{
+    width: 100%;
+    background-color: #ffffff;
+}
+
+
+
+
+
+
+

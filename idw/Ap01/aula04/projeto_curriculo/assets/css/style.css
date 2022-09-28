@@ -1,0 +1,107 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.tudo{
+    width: 60%;
+    border: solid rgb(41, 41, 41);
+    margin:0 auto;
+    text-align: center;
+    padding: 30px;
+
+} 
+
+.linha{
+    clear: both;
+}
+
+h2{
+    color: rgb(61, 194, 61);
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+h4{
+    margin-bottom: 0px;
+}
+
+hr{
+    margin-bottom: 10px;
+    margin-top: 3px;
+    border-color: limegreen;
+}
+
+p{margin-top: 0px;
+}
+
+/* cabeçalho */
+h1 {
+    background-color: rgb(91, 209, 91);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+/* foto e contato */
+#foto{
+    width: 40%;
+    float: left;
+}
+
+#imgFoto{
+    width: 140px;
+   
+}
+
+#contato{
+    width: 60%;
+    float: left;
+    text-align: left;
+    font-size:20px ;
+    line-height: 25px;
+}
+
+.tituloContato{
+    color: rgb(7, 187, 7);
+    font-weight: bolder;
+
+}
+
+/* objetivos */
+#objetivo{
+    text-align: left;
+}
+    
+
+/* formação */
+#formacao{
+    text-align: left;
+}
+
+/* hab/comp */
+#coluna1{
+float: left;
+width: 48%;
+}
+#coluna2{
+float: left;
+width: 4%;
+}
+#coluna3{
+float: left;
+width: 48%;
+}
+.itens{
+    float: left;
+
+}
+.circulo{
+    float: left;
+    background-color: rgb(152, 230, 152);
+    height: 15px;
+    width: 15px;
+    margin-right: 5px;
+    border-radius: 50%;
+}
